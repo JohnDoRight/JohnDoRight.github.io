@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Johnny's website: a work-in-progress. 23
+Johnny's website: a work-in-progress.
 
-I solve problems. I learn as I go. This website is an example of that. I am curious about data and draw insights from them, my projects demonstrate that in one form or another. If I can't get the data, I'll develop hardware and software to do that.
+I solve problems. I learn as I go. This website is an example of that. I am curious about data and draw insights from them, my projects [pending] demonstrate that in one form or another. If I can't get the data, I'll develop hardware and software to do that, just like my Masters (also in the projects [pending]).
 
 I'm not all science and engineering; I've been teaching myself how to play guitar, learned how to do barre chords last year! (Note: Barre chords are the hardest chords to do and require using your index finger to 'bar' all the strings). I have also learned how to dance, both solo and ballroom, over the years.
 
