@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Johnny's website: a work-in-progress. 2
+Johnny's website: a work-in-progress. 23
 
 I solve problems. I learn as I go. This website is an example of that. I am curious about data and draw insights from them, my projects demonstrate that in one form or another. If I can't get the data, I'll develop hardware and software to do that.
 
