@@ -24,7 +24,7 @@ I solve problems. I learn as I go. This website is an example of that. I am curi
 
 My hobbies inlcude: guitar, learned how to do barre chords over a year ago! (Note: Barre chords are the hardest chords to do and require using your index finger to 'bar' all the strings); dancing, both solo and ballroom; and more!
 
-Friends, colleagues, and former students comment my explanations are helpful and thorough, so I can teach too.
+Friends, colleagues, and former students comment my presentations and explanations are helpful and thorough.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
