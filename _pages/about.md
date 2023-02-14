@@ -11,6 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>USA, California</p>
+    <p><i>*Thank you, <a href="http://www.luiphotography.com">Gino</a>, for the excellent photography.</i></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,7 +22,7 @@ Johnny's website: a work-in-progress.
 
 I solve problems. I learn as I go. This website is an example of that. I am curious about data and draw insights from them, my projects [pending] demonstrate that in one form or another. If I can't get the data, I'll develop hardware and software to do that, just like my Masters (also in the projects [pending]).
 
-I'm not all science and engineering; I've been teaching myself how to play guitar, learned how to do barre chords last year! (Note: Barre chords are the hardest chords to do and require using your index finger to 'bar' all the strings). I have also learned how to dance, both solo and ballroom, over the years.
+My hobbies inlcude: guitar, learned how to do barre chords over a year ago! (Note: Barre chords are the hardest chords to do and require using your index finger to 'bar' all the strings); dancing, both solo and ballroom; and more!
 
 Friends, colleagues, and former students comment my explanations are helpful and thorough, so I can teach too.
 
